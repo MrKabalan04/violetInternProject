@@ -322,5 +322,3 @@ Stop the process using port `3306`, `5000`, or `5173`, then restart.
 - `Team` and `Pages` remain non-functional placeholders to preserve the original
   site structure.
 - Uploaded images are stored on the local filesystem.
-- The original demo MongoDB/Mongoose setup and `/api/items` endpoints were
-  removed; all portfolio content now lives in MySQL.
